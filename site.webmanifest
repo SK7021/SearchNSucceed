@@ -1,0 +1,23 @@
+   {
+    "name": "SearchNSucceed",
+    "short_name": "SearchNSucceed",
+    "icons": [
+        {
+            "src": "https://blogger.googleusercontent.com/img/a/AVvXsEhFfZZJil4VYxLSHkbWzNMEdD9g0KO3dHD-UZ9b1yDJh_wIR3ojNtQZe8-mcfaDbctZ-Rj0prnTCIPxJ2AUB4t-AbKRg-ZxR6KxoHlXOv3JowciYWEZy23-2BsVCGzXh6WmLsgwna27ODTZP652S89457Cuxhl7MztQ61k3Lq1K2K5gf97T-TpvbP5a=s16000",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "https://blogger.googleusercontent.com/img/a/AVvXsEgzDHOC3yXU1DpOHKmPZvcjHcqlnBRUG6Eq6nBoUjMyaz0hR3IhO4vXpM_MIgAbHo0__vsshFXbdnpZQwfFW4lkG_s9-cxRfn_wu3I97z1s1oXwa58wU406CAxi7M3LnNOo0lqdzuRnHOSmNj0IsXPwqvxLCzL5SgGxPdavmPGkiVXJXtZd4VQqJP4a=s16000",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ],
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "prefer_related_applications": false,
+  "start_url": "https://www.searchnsucceed.in"
+}
